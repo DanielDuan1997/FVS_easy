@@ -1,0 +1,8 @@
+begin: 20130101
+end: 20190528
+lag: 1
+num_grp: 10
+forecast_period: 1
+factor_path: ../data/high_open.pkl
+market_path: ../data/market_data.pkl
+report_root: ../report
